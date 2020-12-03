@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.navtit {
+	height: 44px;
+	color: #787784;
+}
+
+.navtit p {
+	line-height: 44px;
+}
+
+.navtit p span {
+	color: #fff;
+}
+
+.container-bg {
+	background-color: #1d1d1d;
+}
+
+.container-bg1 {
+	background-color: #212128;
+}
+
+.navbar {
+	background-color: #212128!important;
+	height: 90px;
+}
+
+.navbar-brand {
+	color: #ffffe1!important;
+}
+
+.maincont {
+	display: flex;
+}
+
+.card {
+	margin: 15px;
+}
+
+.container {
+	display: flex;
+}
+
+.card-body {
+	padding: 0.1rem 0.5rem;
+}
+
+.recommendations_blok_card img {
+	height: 60px;
+	width: 60px;
+}
